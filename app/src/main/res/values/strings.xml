@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">DefenceGuide</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="airForceDSItemFormActivity"></string>
+    <string formatted="false" name="navyDSItemFormActivity"></string>
+    <string formatted="false" name="armyDSItemFormActivity"></string>
+    <string formatted="false" name="historyofairforcedsItemFormActivity"></string>
+    <string formatted="false" name="historyofnavydsItemFormActivity"></string>
+    <string formatted="false" name="defenceGuideMain">DefenceGuide</string>
+    <string formatted="false" name="chooseYourPathActivity">Choose Your Path</string>
+    <string formatted="false" name="joinAirForceActivity">Join AirForce</string>
+    <string formatted="false" name="joinNavyActivity">Join Navy</string>
+    <string formatted="false" name="joinArmyActivity">Join Army</string>
+    <string formatted="false" name="historyActivity">HISTORY</string>
+    <string formatted="false" name="historyofairforceActivity">HISTORY OF AIRFORCE</string>
+    <string formatted="false" name="historyofnavyActivity">HISTORY OF NAVY</string>
+    <string formatted="false" name="historyofarmyActivity">HISTORY OF ARMY</string>
+</resources>
+
+
